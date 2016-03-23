@@ -1,0 +1,29 @@
+{
+  "name": "gulp-merge-glue-css",
+  "version": "0.1.0",
+  "description": "merge glue icon css and the same name page css into each file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leeqqiang/gulp-merge-glue-css.git"
+  },
+  "keywords": [
+    "gulp",
+    "glue",
+    "merge"
+  ],
+  "author": "leeqqiang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leeqqiang/gulp-merge-glue-css/issues"
+  },
+  "homepage": "https://github.com/leeqqiang/gulp-merge-glue-css#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.7",
+    "through2": "^2.0.1"
+  }
+}
