@@ -1,7 +1,7 @@
 
 'use strict'
 /*
- * https://github.com/teambition/gulp-mejs
+ * https://github.com/leeqqiang/gulp-merge-glue-css
  *
  * Licensed under the MIT license.
  */
